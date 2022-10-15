@@ -1,0 +1,26 @@
+[0.717s] Invoking command in '/home/hts/Skillex/src/py_pubsub': PYTHONPATH=/home/hts/Skillex/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/hts/Skillex/build/py_pubsub/build install --prefix /home/hts/Skillex/install/py_pubsub --record /home/hts/Skillex/build/py_pubsub/install.log --single-version-externally-managed
+[0.920s] running egg_info
+[0.924s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.929s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.929s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.940s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.940s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.978s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.980s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.982s] running build
+[0.982s] running build_py
+[0.983s] copying py_pubsub/speech2text.py -> /home/hts/Skillex/build/py_pubsub/build/lib/py_pubsub
+[0.984s] running install
+[0.988s] running install_lib
+[0.992s] copying /home/hts/Skillex/build/py_pubsub/build/lib/py_pubsub/speech2text.py -> /home/hts/Skillex/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.992s] byte-compiling /home/hts/Skillex/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/speech2text.py to speech2text.cpython-38.pyc
+[1.008s] running install_data
+[1.008s] running install_egg_info
+[1.009s] removing '/home/hts/Skillex/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[1.015s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/hts/Skillex/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[1.016s] running install_scripts
+[1.034s] Installing listener script to /home/hts/Skillex/install/py_pubsub/lib/py_pubsub
+[1.037s] Installing speech2text script to /home/hts/Skillex/install/py_pubsub/lib/py_pubsub
+[1.048s] Installing talker script to /home/hts/Skillex/install/py_pubsub/lib/py_pubsub
+[1.048s] writing list of installed files to '/home/hts/Skillex/build/py_pubsub/install.log'
+[1.100s] Invoked command in '/home/hts/Skillex/src/py_pubsub' returned '0': PYTHONPATH=/home/hts/Skillex/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/hts/Skillex/build/py_pubsub/build install --prefix /home/hts/Skillex/install/py_pubsub --record /home/hts/Skillex/build/py_pubsub/install.log --single-version-externally-managed

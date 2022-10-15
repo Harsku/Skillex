@@ -1,0 +1,5 @@
+  File "/home/hts/Skillex/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/speech2text.py", line 15
+    from
+        ^
+SyntaxError: invalid syntax
+

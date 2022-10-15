@@ -1,0 +1,5 @@
+[console_scripts]
+listener = py_pubsub.turtle_listener:main
+speech2text = py_pubsub.speech2text:main
+talker = py_pubsub.turtle_mover:main
+
